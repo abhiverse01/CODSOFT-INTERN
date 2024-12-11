@@ -6,7 +6,7 @@ This repository contains the projects I worked on during my Codsoft internship. 
 
 ### 1. Credit Card Fraud Detection
 - Detecting fraudulent credit card transactions using machine learning.
-- [More Details]((Fraud_Detection/README.md))
+- [More Details](Fraud_Detection/README.md)
 
 ### 2. Customer Churn Prediction
 - Predicting customer churn in a telecom company.
