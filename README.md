@@ -10,15 +10,15 @@ This repository contains the projects I worked on during my Codsoft internship. 
 
 ### 2. Customer Churn Prediction
 - Predicting customer churn in a telecom company.
-- [More Details](Customer_Churn_Prediction/README.md)
+- [More Details](Churn_Prediction/README.md)
 
 ### 3. Movie Genre Classification
 - Classifying movies into different genres based on plot summaries.
-- [More Details](Movie_Genre_Classification/README.md)
+- [More Details](Genre_Classification/README.md)
 
 ### 4. SMS Spam Detection
 - Detecting spam messages using natural language processing.
-- [More Details](SMS_Spam_Detection/README.md)
+- [More Details](Spam_Detection/README.md)
 
 ## Requirements
 - Refer to the `requirements.txt` file for a list of dependencies.
